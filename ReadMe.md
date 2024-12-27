@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, World!<br>I'm Harshit – a passionate coder, photography enthusiast 📸.<br><br>💻 Developer by Day, Innovator by Night:<br>🌟 Finalist at Smart India Hackathon 2024<br>🛠️ Skilled in React, Express, Docker, and more!<br><br>🎯 What I Love:<br>🖥️ Crafting dynamic web experiences<br>🤖 Building bots and scrapers<br>🔍 Exploring security strategies<br><br>🎓 Work + Fun:<br>👔 Currently at Metafrazo<br>🌈 Blending creativity with tech<br><br>✨ Fun Fact:<br>I capture the world through my lens and imagination! 🌍<br><br>🌟 Let’s Connect & Create Magic!
+👋 Hello, World!<br>I'm Harshit – a passionate coder, photography enthusiast 📸.<br><br>💻 Developer by Day, Innovator by Night:<br>🌟 Finalist at Smart India Hackathon 2024<br>🛠️ Skilled in React, Express, Docker, and more!<br><br>🎯 What I Love:<br>🖥️ Crafting dynamic web experiences<br>🤖 Building bots and scrapers<br>🔍 Exploring security strategies<br><br>🎓 Work + Fun:<br>👔 Currently at National Institute of Technology Jamshedpur <br>🌈 Blending creativity with tech<br><br>✨ Fun Fact:<br>I capture the world through my lens and imagination! 🌍<br><br>🌟 Let’s Connect & Create Magic!
 
 
 ## 🌐 Socials:
